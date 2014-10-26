@@ -15,6 +15,7 @@ public class Clazz1 {
 
         System.out.println("hello world");
         System.out.println("checking branches");
+
         System.out.println("checking branches 2");
 
     }
