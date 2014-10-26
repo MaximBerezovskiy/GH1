@@ -11,4 +11,7 @@
  * @author Maxim Berezovskiy
  */
 public class Clazz1 {
+    public static void main(String[] args) {
+
+    }
 }
