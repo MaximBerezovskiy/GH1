@@ -1,5 +1,5 @@
-/**
- *
+/*
+
  */
 
 /**
@@ -17,6 +17,7 @@ public class Clazz1 {
         System.out.println("checking branches");
 
         System.out.println("checking branches 2");
+        System.out.println("checking branches 3");
 
     }
 }
